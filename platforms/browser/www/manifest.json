@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "FoodWatch",
+  "short_name": "FoodWatch",
+  "version": "com.phonegap.helloworld",
+  "description": "PhoneGap Sample",
+  "author": "PhoneGap Team",
+  "icons": [],
+  "start_url": "index.html"
+}
