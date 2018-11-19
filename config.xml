@@ -90,10 +90,12 @@
     <allow-navigation href="*" />
     <platform name="android">
         <allow-intent href="market:*" />
+        <allow-intent href="*" />
     </platform>
     <platform name="ios">
         <allow-intent href="itms:*" />
         <allow-intent href="itms-apps:*" />
+        <allow-intent href="*" />
     </platform>
     <engine name="android" spec="~7.1.2" />
     <plugin name="cordova-plugin-battery-status" spec="~1.2.4" />
